@@ -1,0 +1,7 @@
+# Python OPC UA 光刻机监控系统依赖
+asyncua>=1.1.0
+cryptography>=41.0.0  
+numpy>=1.24.0
+python-dotenv>=1.0.0
+
+# 注：asyncua是现代异步OPC UA库，推荐使用而非已停止维护的opcua库
